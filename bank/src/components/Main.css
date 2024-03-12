@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+}
+.left-side{
+    width:50%;
+    padding: 30px;
+}

@@ -1,0 +1,15 @@
+.nav{
+    background-color: #1976d2;
+    color: #fff;
+    min-height: 64px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px -1px, rgba(0, 0, 0, 0.14) 0px 4px 5px 0px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px;
+}
+
+h1{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    padding: 15px 45px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.334;
+    letter-spacing: 0;
+}
